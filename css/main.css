@@ -1,7 +1,64 @@
+.menu{
+	background-color:#163e5f;
+	color:white;
+	padding:1%;
+
+}
+
+.active{
+	background-color: #16375f;
+}
+
+.Flat{
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.fondo{
+	background-image: url(../images/slider/bg1.jpg);
+	background-size: cover;
+}
+
+.caja{
+	color: white;
+	padding: 23% 8% 30% 19%;
+}
+
+.verde{
+	background-color: #2dbb48;
+}
+
+.parra{
+	font-size: 13px;
+	color: white;
+}
+
+.icono{
+	color: white;
+    background-color: #437137;
+    padding: 20%;
+    margin-top: 30%;
+    border-radius: 80%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.redes{
+	color: white;
+	font-size: 16px;
+}
+
+.cajita{
+	padding: 15%;
+}
+
+
+
+
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
 .clearfix {
-  *zoom: 1;
+  *zoom: 1;s
 }
 
 .clearfix:before,
@@ -10,6 +67,8 @@
   content: "";
   line-height: 0;
 }
+
 .clearfix:after {
   clear: both;
 }
+
