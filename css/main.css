@@ -1,3 +1,80 @@
+
+.section-naranja{
+	background-color:#E74C3C;
+	color:white;
+	
+}
+
+.section-naranja h2, h5{
+	text-align: center;
+}
+
+.p-sectionnaranja{
+padding-left: 20%;
+}
+
+.p-sectionnaanja2{
+padding-left: 20%;
+padding-top: 5%;
+}
+
+.section-azul{
+	 background-color:#34495E;
+	 color:white;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.a-company{
+	color:white;
+	
+}
+
+.li-company{
+	list-style: none;
+}
+
+.Newsletter-h4{
+	padding-top: 10%;
+}
+
+.imagenes{
+	padding: 10%;
+}
+
+.letras-sectionazul{
+padding-top: 36%;
+}
+
+.letras-sectionazul2{
+	padding-top: 13%;
+}
+
+.about{
+	padding-left: 30%;
+}
+
+.btn{
+	background-color:#E74C3C;
+	color:white;
+}
+
+.ultimo-azul{
+	color:white;
+	background-color:#212F3D;
+	padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.li-home{
+	float: left;
+	padding-left: 10%;
+	list-style: none;
+}
+
+
+
+
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
 .clearfix {
