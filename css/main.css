@@ -5,7 +5,7 @@
 
 }
 
-.active{
+.act:hover{
 	background-color: #16375f;
 }
 
@@ -52,8 +52,38 @@
 	padding: 15%;
 }
 
+.blanco{
+	padding: 5%;
+}
 
+.our{
+	font-size: 23px;
+	padding: 2%;
+	color: #004080;
+	max-width: 100%;
+}
 
+.parrafo{
+	font-size: 12px;
+	color: #004080;
+	max-width: 100%;
+}
+
+.pantallazos{
+	max-width: 90%;
+}
+
+.flecha{
+	color: white;
+	padding:100%;
+	background-color: #b1313a;
+	border: 1px solid #d7313a;
+}
+
+.flechas{
+	padding-left: 0px;
+
+}
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
