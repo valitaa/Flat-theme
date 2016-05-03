@@ -175,6 +175,65 @@ padding-top: 36%;
 	padding-left: 6%;
 }
 
+.barra{
+	padding: 1%;
+}
+
+.meet{
+	color:#233141;
+	font-size: 30px;
+	padding-left: 20%;
+	padding-bottom: 2%;
+}
+
+.textocentrado{
+	padding-left: 22%;
+	color:#233141;
+	font-size: 17px;
+}
+
+.iconos-redes{
+	font-size: 13px;
+	color: white
+}
+
+.circulo-icono{
+	padding: 20%;
+	background-color: #4c6fdb;
+	border-radius: 80%;
+}
+
+.circulo-icono1{
+	padding: 20%;
+	background-color:#9c2828;
+	border-radius: 80%;
+}
+
+.circulo-icono2{
+	padding: 20%;
+	background-color:#63a2db;
+	border-radius: 80%;
+}
+
+.circulo-icono3{
+	padding: 20%;
+	background-color:#4c8cdb;
+	border-radius: 80%;
+}
+
+.col-sm-3{
+	width: 25%;
+	padding:3%;
+}
+
+.text-center{
+	max-width: 80%;
+}
+
+.parra-gris{
+	color: #999999;
+	font-size: 12px;
+}
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
