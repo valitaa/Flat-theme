@@ -1,3 +1,95 @@
+.menu{
+	background-color:#163e5f;
+	color:white;
+	padding:1%;
+
+}
+
+.act:hover{
+	background-color: #16375f;
+}
+
+.Flat{
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.fondo{
+	background-image: url(../images/slider/bg1.jpg);
+	background-size: cover;
+}
+
+.caja{
+	color: white;
+	padding: 23% 8% 30% 19%;
+}
+
+.verde{
+	background-color: #2dbb48;
+}
+
+.parra{
+	font-size: 13px;
+	color: white;
+}
+
+.icono{
+	color: white;
+    background-color: #437137;
+    padding: 20%;
+    margin-top: 30%;
+    border-radius: 80%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.redes{
+	color: white;
+	font-size: 16px;
+}
+
+.cajita{
+	padding: 15%;
+}
+
+.blanco{
+	padding: 3%;
+}
+
+.our{
+	font-size: 23px;
+	padding: 2%;
+	color: #004080;
+	max-width: 100%;
+}
+
+.parrafo{
+	font-size: 12px;
+	color: #004080;
+	max-width: 100%;
+}
+
+.pantallazos{
+	max-width: 90%;
+}
+
+.flecha{
+	color: white;
+	padding:100%;
+	background-color: #b1313a;
+	border: 1px solid #d7313a;
+}
+
+.flechas{
+	padding-left: 0px;
+
+}
+
+.lorem{
+	font-size: 15px;
+	color: #004080;
+}
+
 
 .section-naranja{
 	background-color:#E74C3C;
@@ -147,7 +239,65 @@ padding-top: 36%;
 
 }
 
+.barra{
+	padding: 1%;
+}
 
+.meet{
+	color:#233141;
+	font-size: 30px;
+	padding-left: 20%;
+	padding-bottom: 2%;
+}
+
+.textocentrado{
+	padding-left: 22%;
+	color:#233141;
+	font-size: 17px;
+}
+
+.iconos-redes{
+	font-size: 13px;
+	color: white
+}
+
+.circulo-icono{
+	padding: 20%;
+	background-color: #4c6fdb;
+	border-radius: 80%;
+}
+
+.circulo-icono1{
+	padding: 20%;
+	background-color:#9c2828;
+	border-radius: 80%;
+}
+
+.circulo-icono2{
+	padding: 20%;
+	background-color:#63a2db;
+	border-radius: 80%;
+}
+
+.circulo-icono3{
+	padding: 20%;
+	background-color:#4c8cdb;
+	border-radius: 80%;
+}
+
+.col-sm-3{
+	width: 25%;
+	padding:3%;
+}
+
+.text-center{
+	max-width: 80%;
+}
+
+.parra-gris{
+	color: #999999;
+	font-size: 12px;
+}
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
@@ -161,6 +311,8 @@ padding-top: 36%;
   content: "";
   line-height: 0;
 }
+
 .clearfix:after {
   clear: both;
 }
+
