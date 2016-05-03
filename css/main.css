@@ -2,7 +2,7 @@
 .section-naranja{
 	background-color:#E74C3C;
 	color:white;
-	
+	padding-bottom: 4%;
 }
 
 .section-naranja h2, h5{
@@ -10,12 +10,19 @@
 }
 
 .p-sectionnaranja{
-padding-left: 20%;
+	padding-left: 3%;
+    padding-top: 2%;
 }
 
-.p-sectionnaanja2{
-padding-left: 20%;
-padding-top: 5%;
+.p-sectionnaranja2{
+	padding-left: 3%;
+    padding-bottom: 3%;
+
+}
+
+.borde-blanco{
+	border-left: 3px solid white;
+	margin-left: 14%;
 }
 
 .section-azul{
@@ -72,7 +79,9 @@ padding-top: 36%;
 	list-style: none;
 }
 
-
+.glyphicon{
+	padding-left: 6%;
+}
 
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
