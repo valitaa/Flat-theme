@@ -53,7 +53,7 @@
 }
 
 .blanco{
-	padding: 5%;
+	padding: 3%;
 }
 
 .our{
@@ -83,6 +83,11 @@
 .flechas{
 	padding-left: 0px;
 
+}
+
+.lorem{
+	font-size: 15px;
+	color: #004080;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
