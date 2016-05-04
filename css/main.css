@@ -220,23 +220,32 @@ padding-top: 36%;
 
 .iconos{
 	float: left;
-	font-size: 40px;
-	padding-left: 10%;
+	font-size: 35px;
+	padding-left: 8%;
     padding-top: 8%;
+    color:white;
 }
 
 .caja-iconos{
-	background-color:white;
-	width: 50%; 
+	background-color: gray;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 25%;
+    padding-left: 6%;
+    padding-top: 4%;
+    margin-left: 3%;
+    float: left;
 }
 
 .titulo-services{
 	text-align: center;
+	padding-top: 2%;
 }
 
 .parrafo-services{
-	padding-left: 20%;
-
+	padding-left: 34%;
+	padding-top: 2%;
 }
 
 .barra{
