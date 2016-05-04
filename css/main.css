@@ -154,6 +154,8 @@ padding-top: 36%;
 }
 
 .btn{
+	margin-top: 2%;
+	margin-bottom: 2%;
 	background-color:#E74C3C;
 	color:white;
 }
@@ -233,6 +235,70 @@ padding-top: 36%;
 .parra-gris{
 	color: #999999;
 	font-size: 12px;
+}
+
+.duis{
+	color:#233141;
+	font-size: 23px;
+}
+
+.icono-gris{
+	color: gray;
+	float: right;
+	font-size: 12px;
+}
+
+.icono-griis{
+	padding: 1%;
+}
+
+.float{
+	margin-left: 5%;
+}
+
+.label{
+	padding: 1%;
+	margin: 2%;
+}
+
+.raya{
+	border-top: 1px gray solid;
+	padding: 2%;
+	color:#004080;
+}
+
+.caja-gris-john{
+	background-color:#e6e6e6;
+	padding: 2%;
+	margin: 2%;
+}
+
+.imagen-blog{
+	max-width: 80%;
+	padding-top: 10%;
+}
+
+.reply{
+	text-align: right;
+	color: blue;
+}
+
+.espacio{
+	margin-top: 3%;
+}
+
+.search{
+	max-width: 100%;
+    padding: 6%;
+    padding-right: 43%;
+    margin-top: 5%;
+}
+
+.search2{
+	max-width: 100%;
+    padding: 10%;
+    padding-right: 70%;
+    margin-top: 5%;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
