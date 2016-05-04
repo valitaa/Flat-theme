@@ -173,7 +173,7 @@ padding-top: 36%;
 	list-style: none;
 }
 
-.glyphicon{
+.glyphicon-index{
 	padding-left: 6%;
 }
 
@@ -299,6 +299,86 @@ padding-top: 36%;
     padding: 10%;
     padding-right: 70%;
     margin-top: 5%;
+}
+.gris-blog{
+	background-color: #F2F3F4;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+.caja-blanca-foto{
+	background-color: white;
+	margin-left: 7%;
+	text-align: center;
+	padding-bottom: 10%;
+	margin-bottom: 5%;
+}
+
+.imagen-blog{
+	padding-top: 3%;
+	padding-bottom: 2%;
+}
+
+.imagen-blog1{
+	width: 100%;
+	padding-bottom: 5%;
+}
+
+.li-left{
+	float: left;
+	list-style: none;
+	font-size: 11px;
+    padding-left: 3%;
+}
+
+.botonblog-azul{
+	background-color: #2471A3;
+	color:white;
+}
+
+.parrafo-blog{
+	padding-top: 10%;
+}
+
+.boton-blancoblog{
+	background-color: white;
+	margin-right: 70%;
+	color:black;
+}
+
+.li-blog{
+	list-style: none;
+   	
+}
+
+.a-negro{
+	color:black;
+}
+
+.a-negro2{
+	color:black;
+	padding-left: 10%;
+}
+
+.numeros{
+	padding-left: 10%;
+}
+
+.ul-left{
+	float: left;
+}
+
+.ul-left2{
+	padding-left: 4%;
+}
+
+.h4-top{
+	padding-top: 11%;
+}
+
+.input-group-btn{
+	width: 14%;
+
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
